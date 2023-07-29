@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: spring-boot-app
-        image: yasirzia/myrepository:19
+        image: yasirzia/myrepository:1
         ports:
         - containerPort: 8080
